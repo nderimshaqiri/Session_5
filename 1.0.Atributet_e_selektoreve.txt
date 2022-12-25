@@ -5,7 +5,16 @@
   Selektori qe kontrollon se a ekziston atributi perkates dhe a ka vlere te caktuar ne ndonje element.
 
 3.Atributi SPACE;
-Selektori qe kontrollon a ka nje vlere dhe kur ka me shume vlera ne nje stribut. Sa do vlera te ndara qe ti kete ndermjet vete permes te gjithave mundemi me ju qas atij elementi     
+  Selektori qe kontrollon a ka nje vlere dhe kur ka me shume vlera ne nje stribut. Sa do vlera te ndara qe ti kete ndermjet vete permes te gjithave mundemi me ju qas atij elementi.
+
+
+5.Atributi Prefix
+  Selektori qe kontrollon se kur fillon me dicka.
+
+6. Atributi Suffix
+  Selektori qe kontrollon se kur perfundon me dicka.
+
+
 
 :not() not CSS
   - Mundeson me targetu nje element te caktuar qe nuk e ka nje dicka!
