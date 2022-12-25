@@ -9,3 +9,7 @@ Selektori qe kontrollon a ka nje vlere dhe kur ka me shume vlera ne nje stribut.
 
 Utility class
   - Jane klasa te pergjithshme 
+
+  Linqet e jashtme dhe te brendshme
+   - te jashtme  http:// & https://
+   - te brendshme XY.html (dokument)
