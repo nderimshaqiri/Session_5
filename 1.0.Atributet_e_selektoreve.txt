@@ -1,0 +1,8 @@
+1.Atributi i ekzistences;
+  Selektori qe kontrollon se a ekziston atributi perkates ne ndonje element.
+
+2.Atributi i barabarte;
+  Selektori qe kontrollon se a ekziston atributi perkates dhe a ka vlere te caktuar ne ndonje element.
+
+3.Atributi SPACE;
+       
