@@ -6,10 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Space</title>
     <style>
-        p.test {}
-        p.one {}
-        p.two {}
-        
+        p.test {background-color: aqua;}
+        p.one {color: brown;}
+        p.two {font-size: 25px;}
+
+        p[class~="my-4"] {
+            background-color: blue;
+            color: rgb(255, 255, 255);
+        }
+
     </style>
 </head>
 <body>
@@ -18,7 +23,7 @@
         Lorem Ipsum understands our business and is a critical partner helping us to design and implement integrated communications while making the absolute most of ...
     </p>
     <h2 id="subtitle" >Subtitle</h2>
-    <p class="middle my-5">
+    <p class="middle my-4">
         Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown
     </p>
     <p data-target>
