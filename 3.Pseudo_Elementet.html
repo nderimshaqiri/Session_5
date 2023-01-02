@@ -7,8 +7,11 @@
     <title>Pseudo klasat</title>
 
     <style>
+        
+        /* te gjitha linqet ne www te cilat dergojne tek PDF dokumentat le ta kene perpara ose mbrapa iconen e PDF */
+        a[href$='.pdf']::before {content: url('./pdf-icon.ico')}
 
-     a[href$='.pdf']::before {content: url('./pdf-icon.ico')}
+        p::first-line{color: red;}
      
     </style>
 
