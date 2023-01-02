@@ -8,7 +8,7 @@
   Selektori qe kontrollon a ka nje vlere dhe kur ka me shume vlera ne nje atribut. Sa do vlera te ndara qe ti kete ndermjet vete permes te gjithave mundemi me ju qas atij elementi.
 
 4.Prefix
-  Kur ka subtring brenda nje atributi, brenda nje vlere te atributit. Psh te gjitha ato linqe qe kane te bjene me GOOGLE.
+  Kur ka substring brenda nje atributi, brenda nje vlere te atributit. Psh te gjitha ato linqe qe kane te bjene me GOOGLE.
 
 5.Atributi Prefix
   Selektori qe kontrollon se kur fillon me dicka.
