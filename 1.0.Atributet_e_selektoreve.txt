@@ -13,10 +13,9 @@
 5.Atributi Substring
   Kur ka substring brenda nje atributi, brenda nje vlere te atributit. Psh te gjitha ato linqe qe kane te bjene me GOOGLE.
 
-.
-
 6. Atributi Suffix
   Selektori qe kontrollon se kur perfundon me dicka.
+
 
 
 
