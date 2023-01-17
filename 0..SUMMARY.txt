@@ -17,6 +17,12 @@
   Selektori qe kontrollon se kur perfundon me dicka.
 
 
+PSEUDO KLASAT  
+Perdoren per te percaktuar nje gjendje te vecante te nje elementi.
+ Për shembull, mund të përdoret për:
+  - Stilizoni një element kur një përdorues kalon mausin mbi të,
+  - Stilizoni lidhjet e vizituara dhe të pavizituara ndryshe,
+  - Stilizoni një element kur fokusohet.
 
 
 :not() not CSS
