@@ -25,6 +25,15 @@ Perdoren per te percaktuar nje gjendje te vecante te nje elementi.
   - Stilizoni një element kur fokusohet.
 
 
+
+PSEUDO ELEMENTET
+Një pseudo-element CSS përdoret për të stiluar pjesë të caktuara të një elementi.
+ Për shembull, mund të përdoret për:
+  - Stiloni shkronjën ose rreshtin e parë të një elementi
+  - Futni përmbajtjen para ose pas përmbajtjes së një elementi
+
+
+
 :not() not CSS
   - Mundeson me targetu nje element te caktuar qe nuk e ka nje dicka!
 
